@@ -37,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.regressionp2">
+  <component name="RunManager" selected="Python.readData">
     <configuration name="readData" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,8 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.regressionp2" />
         <item itemvalue="Python.readData" />
+        <item itemvalue="Python.regressionp2" />
       </list>
     </recent_temporary>
   </component>
@@ -99,5 +99,16 @@
       <updated>1576020122440</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
