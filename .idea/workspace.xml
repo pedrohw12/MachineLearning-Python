@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="815ff350-590c-4aa0-bc7b-f1d27a52d9d4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/regressionp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/machine learning/regressionp2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.readData">
+  <component name="RunManager" selected="Python.regressionp2">
     <configuration name="readData" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,8 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.readData" />
         <item itemvalue="Python.regressionp2" />
+        <item itemvalue="Python.readData" />
       </list>
     </recent_temporary>
   </component>
