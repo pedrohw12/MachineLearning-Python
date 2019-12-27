@@ -10,6 +10,6 @@ df['PCT_change'] = (df['Adj. Close'] - df['Adj. Open']) / df['Adj. Open'] * 100.
 
 df = df[['Adj. Close', 'HL_PCT', 'PCT_change', 'Adj. Volume']]
 
-forecast_col = 'Adj. Close'
+forecast_col = 'Adj. Close' + ''
 
 
